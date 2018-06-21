@@ -1,3 +1,5 @@
+test commit from local git
+
 from random import randint
 
 board = []
